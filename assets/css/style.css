@@ -6,6 +6,15 @@ table
 td
 {
     border: 1px solid black;
-    padding-left: 10px;
-    padding-right: 10px;
+    
+}
+
+thead
+{
+    text-align: center;
+}
+
+tfoot
+{
+    text-align: center;
 }
